@@ -27,5 +27,4 @@ Time spent: 8
 
 ## Walkthrough Gif:
 
-`<Add your Walkthrough Gif here (by updating the image URL)>`
 ![Video Walkthrough](https://github.com/Corsad/Node-CLIs/blob/master/anim.gif?raw=true)
