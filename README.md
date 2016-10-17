@@ -2,7 +2,7 @@
 
 This is a CLI Utilities library for Node.js.
 
-Time spent: `<Number of hours spent>`
+Time spent: 8
 
 ## Features
 
@@ -28,4 +28,4 @@ Time spent: `<Number of hours spent>`
 ## Walkthrough Gif:
 
 `<Add your Walkthrough Gif here (by updating the image URL)>`
-![Video Walkthrough](...)
+![Video Walkthrough](https://github.com/Corsad/Node-CLIs/blob/master/anim.gif?raw=true)
